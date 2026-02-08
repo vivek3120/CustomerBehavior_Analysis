@@ -36,7 +36,7 @@ SQL-Based Business Analysis
 
 Dashboard Visualization
 
-Data Preparation and Feature Engineering
+## Data Preparation and Feature Engineering
 
 Loaded raw customer shopping behavior data into Jupyter Notebook
 
@@ -54,7 +54,7 @@ Purchase and revenue metrics
 
 Prepared data in a relational format suitable for SQL analytics
 
-Data Storage and SQL Analysis
+## Data Storage and SQL Analysis
 
 Transferred cleaned and engineered data into Microsoft SQL Server
 
@@ -72,13 +72,12 @@ Purchase behavior by age group and gender
 
 Average purchase amount and customer ratings
 
-(SQL scripts used for analysis are included in the repository.)
 
-Dashboard Development
+## Dashboard Development
 
 An interactive Customer Behavior Dashboard was developed to visualize insights and trends.
 
-Dashboard Highlights
+### Dashboard Highlights
 
 Total number of customers
 
@@ -92,7 +91,7 @@ Revenue and sales by product category
 
 Customer behavior by age group
 
-Interactive Filters
+### Interactive Filters
 
 Subscription status
 
@@ -102,7 +101,8 @@ Product category
 
 Shipping type
 
-Key Insights
+
+## Key Insights
 
 Subscription customers demonstrate higher engagement and repeat purchasing behavior
 
@@ -112,7 +112,7 @@ Accessories and clothing are top-performing product categories
 
 Shipping preferences influence purchasing decisions
 
-Tools and Technologies
+## Tools and Technologies
 
 Python (Pandas, NumPy)
 
@@ -125,7 +125,7 @@ SQL
 Dashboarding Tool (Power BI or equivalent)
 
 
-Skills Demonstrated
+## Skills Demonstrated
 
 End-to-end data pipeline design
 
@@ -136,6 +136,7 @@ SQL-based analytical querying
 Business-oriented data analysis
 
 Dashboard design and data storytelling
+
 
 ## Future Enhancements
 
