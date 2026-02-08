@@ -41,19 +41,13 @@ This project demonstrates practical, real-world experience in building an end-to
 ## Data Storage and SQL Analysis
 
 - Transferred cleaned and engineered data into Microsoft SQL Server
-
 - Designed tables optimized for analytical queries
-
 - Performed SQL-based analysis to answer business questions, including:
 
   - Customer count and segmentation
-
   - Revenue and sales by category
-
   - Subscription vs non-subscription behavior
-
   - Purchase behavior by age group and gender
-
   - Average purchase amount and customer ratings
 
 
