@@ -29,39 +29,32 @@ This project demonstrates practical, real-world experience in building an end-to
 
 ## Data Preparation and Feature Engineering
 
-Loaded raw customer shopping behavior data into Jupyter Notebook
-
-Handled missing values and inconsistencies
-
-Standardized categorical attributes (gender, subscription status, shipping type)
-
-Created derived features such as:
-
-Customer age groups
-
-Subscription indicators
-
-Purchase and revenue metrics
-
-Prepared data in a relational format suitable for SQL analytics
+- Loaded raw customer shopping behavior data into Jupyter Notebook
+- Handled missing values and inconsistencies
+- Standardized categorical attributes (gender, subscription status, shipping type)
+- Created derived features such as:
+- Customer age groups
+- Subscription indicators
+- Purchase and revenue metrics
+- Prepared data in a relational format suitable for SQL analytics
 
 ## Data Storage and SQL Analysis
 
-Transferred cleaned and engineered data into Microsoft SQL Server
+- Transferred cleaned and engineered data into Microsoft SQL Server
 
-Designed tables optimized for analytical queries
+- Designed tables optimized for analytical queries
 
-Performed SQL-based analysis to answer business questions, including:
+- Performed SQL-based analysis to answer business questions, including:
 
-Customer count and segmentation
+  - Customer count and segmentation
 
-Revenue and sales by category
+  - Revenue and sales by category
 
-Subscription vs non-subscription behavior
+  - Subscription vs non-subscription behavior
 
-Purchase behavior by age group and gender
+  - Purchase behavior by age group and gender
 
-Average purchase amount and customer ratings
+  - Average purchase amount and customer ratings
 
 
 ## Dashboard Development
