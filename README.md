@@ -1,10 +1,8 @@
-# CustomerBehavior_Analysis
-
-Customer Behavior Analysis and Dashboard
+# Customer Behavior Analysis and Dashboard
 
 Analyzing customer shopping behavior through an end-to-end data analytics pipeline involving Python-based data processing, SQL-driven business analysis, and interactive dashboard visualization to support data-driven decision-making.
 
-Project Overview
+## Project Overview
 
 Understanding customer behavior is critical for improving engagement, optimizing product strategies, and increasing revenue. This project focuses on analyzing customer shopping behavior by integrating data engineering, SQL analytics, and business intelligence visualization into a single workflow.
 
@@ -12,7 +10,7 @@ The project begins with raw transactional data ingestion and preprocessing in Py
 
 This project demonstrates practical, real-world experience in building an end-to-end analytics solution.
 
-Project Objectives
+## Project Objectives
 
 Analyze customer purchasing behavior using structured data
 
@@ -26,7 +24,7 @@ Build an interactive dashboard for business stakeholders
 
 Translate raw data into actionable insights
 
-Data Pipeline Overview
+## Data Pipeline Overview
 
 Raw Data Ingestion
 
@@ -126,16 +124,6 @@ SQL
 
 Dashboarding Tool (Power BI or equivalent)
 
-Repository Structure
-├── data/
-│   └── customer_shopping_behavior.csv
-├── notebooks/
-│   └── customer_behavior_analysis.ipynb
-├── sql/
-│   └── SQL_Analysis.sql
-├── dashboard/
-│   └── Customer_Behavior_Dashboard.png
-└── README.md
 
 Skills Demonstrated
 
@@ -149,7 +137,7 @@ Business-oriented data analysis
 
 Dashboard design and data storytelling
 
-Future Enhancements
+## Future Enhancements
 
 Automate data ingestion and refresh processes
 
