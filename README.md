@@ -1,7 +1,7 @@
 # Customer Behavior Analysis and Dashboard
 
 Analyzing customer shopping behavior through an end-to-end data analytics pipeline involving Python-based data processing, SQL-driven business analysis, and interactive dashboard visualization to support data-driven decision-making.
-----------------------------------------------------------------------------------------------------------------------------------------
+
 ## Project Overview
 
 Understanding customer behavior is critical for improving engagement, optimizing product strategies, and increasing revenue. This project focuses on analyzing customer shopping behavior by integrating data engineering, SQL analytics, and business intelligence visualization into a single workflow.
@@ -9,7 +9,7 @@ Understanding customer behavior is critical for improving engagement, optimizing
 The project begins with raw transactional data ingestion and preprocessing in Python, followed by data cleaning and feature engineering. The transformed data is then loaded into Microsoft SQL Server, where SQL is used to answer key business questions. Finally, insights are presented through an interactive Customer Behavior Dashboard.
 
 This project demonstrates practical, real-world experience in building an end-to-end analytics solution.
--------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Project Objectives
 
 - Analyze customer purchasing behavior using structured data
@@ -18,7 +18,7 @@ This project demonstrates practical, real-world experience in building an end-to
 - Answer business-focused questions using SQL
 - Build an interactive dashboard for business stakeholders
 - Translate raw data into actionable insights
--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Data Pipeline Overview
 
 - Raw Data Ingestion
@@ -26,7 +26,7 @@ This project demonstrates practical, real-world experience in building an end-to
 - Data Loading into MS SQL Server
 - SQL-Based Business Analysis
 - Dashboard Visualization
---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Data Preparation and Feature Engineering
 
 - Loaded raw customer shopping behavior data into Jupyter Notebook
@@ -37,7 +37,7 @@ This project demonstrates practical, real-world experience in building an end-to
 - Subscription indicators
 - Purchase and revenue metrics
 - Prepared data in a relational format suitable for SQL analytics
----------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Data Storage and SQL Analysis
 
 - Transferred cleaned and engineered data into Microsoft SQL Server
