@@ -7,7 +7,7 @@ Analyzing customer shopping behavior through an end-to-end data analytics pipeli
 Understanding customer behavior is critical for improving engagement, optimizing product strategies, and increasing revenue. This project focuses on analyzing customer shopping behavior by integrating data engineering, SQL analytics, and business intelligence visualization into a single workflow.
 
 The project begins with raw transactional data ingestion and preprocessing in Python, followed by data cleaning and feature engineering. The transformed data is then loaded into Microsoft SQL Server, where SQL is used to answer key business questions. Finally, insights are presented through an interactive Customer Behavior Dashboard.
-n
+
 This project demonstrates practical, real-world experience in building an end-to-end analytics solution.
 
 ## Project Objectives:
